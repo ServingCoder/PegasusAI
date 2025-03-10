@@ -1,5 +1,8 @@
 # **Mission No-Fail Weather Tracker – iOS Weather App**  
 
+## **Video Demo*
+[Prototype Demo](https://www.youtube.com/watch?v=GpZS-E6zBqs)
+
 ## **Version Control**  
 This repository contains the source code for Mission No-Fail Weather Tracker, an iOS weather app built for Pegasus AI using Swift and Xcode. I selected Edmonton, Jasper and Banff as take-off locations. When clicking on Edmonton, the user can get real-time weather data for confrimation that the team is mission-ready.
 
