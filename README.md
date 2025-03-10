@@ -18,7 +18,7 @@ Explore the design prototype here:
 [PegAI Figma Prototype](https://www.figma.com/proto/w2YM6LYw0J8UkcTRltcBAJ/PegAI?node-id=2-3&p=f&t=xy7OtiCCXVn3Vi7t-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3)  
 
 ## **Source Code**  
-The app is built using Swift on Xcode. The source code can be found in this repository.  
+The app is built using Swift on Xcode. The source code can be found in this repository under 'PegasusAI-IOSApp'
 
 
 ## **Next Steps**  
