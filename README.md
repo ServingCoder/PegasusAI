@@ -1,4 +1,4 @@
-# **PegAI – iOS Weather App**  
+# **Mission No-Fail Weather Tracker – iOS Weather App**  
 
 ## **Version Control**  
 This repository contains the source code for Mission No-Fail Weather Tracker, an iOS weather app built for Pegasus AI using Swift and Xcode. I selected Edmonton, Jasper and Banff as take-off locations. When clicking on Edmonton, the user can get real-time weather data for confrimation that the team is mission-ready.
@@ -16,10 +16,6 @@ PegAI provides real-time weather updates and notifications based on the user’s
 ### **Figma Prototype**  
 Explore the design prototype here:  
 [PegAI Figma Prototype](https://www.figma.com/proto/w2YM6LYw0J8UkcTRltcBAJ/PegAI?node-id=2-3&p=f&t=xy7OtiCCXVn3Vi7t-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3)  
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=github&url=https://www.figma.com/proto/w2YM6LYw0J8UkcTRltcBAJ/PegAI?node-id=2-3&p=f&t=xy7OtiCCXVn3Vi7t-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3" allowfullscreen></iframe>
-
-*(Embedded Figma preview may not work directly on GitHub, but the link above provides access.)*  
 
 ## **Source Code**  
 The app is built using Swift on Xcode. The source code can be found in this repository.  
