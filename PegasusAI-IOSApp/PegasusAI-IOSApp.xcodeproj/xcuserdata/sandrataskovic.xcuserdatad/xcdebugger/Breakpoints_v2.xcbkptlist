@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E97ED028-E6BE-454A-9043-57F5074A57F1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4775D061-5548-419A-B1C2-A3BB1D1927BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PegasusAI-IOSApp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF50BA1B-272E-40E5-B397-E3F4BA3C0602"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PegasusAI-IOSApp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "224"
+            endingLineNumber = "224"
+            landmarkName = "LocationButton"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "DF50BA1B-272E-40E5-B397-E3F4BA3C0602 - 2f2da3a483efe8e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in PegasusAI_IOSApp.LocationButton.body.getter : some"
+                  moduleName = "PegasusAI-IOSApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sandrataskovic/Desktop/PegasusAI/PegasusAI/PegasusAI-IOSApp/PegasusAI-IOSApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224">
+               </Location>
+               <Location
+                  uuid = "DF50BA1B-272E-40E5-B397-E3F4BA3C0602 - 78b37e550ecf7bfa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in PegasusAI_IOSApp.LocationButton.body.getter : some"
+                  moduleName = "PegasusAI-IOSApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sandrataskovic/Desktop/PegasusAI/PegasusAI/PegasusAI-IOSApp/PegasusAI-IOSApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
